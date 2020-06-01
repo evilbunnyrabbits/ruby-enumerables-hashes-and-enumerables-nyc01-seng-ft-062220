@@ -11,6 +11,6 @@ def select_winner(passengers)
     if suite == 'suite_a' && name[0] == "A"
       winner = name
     end
-    puts winner
   end
+  puts winner
 end 
