@@ -14,3 +14,4 @@ def select_winner(passengers)
   return winner
 end
 
+def happy_birthday(birthday_kids)
